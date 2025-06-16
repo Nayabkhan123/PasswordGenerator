@@ -33,7 +33,7 @@ A powerful and customizable password generator web app built with **HTML**, **CS
 
 ## 📁 Project Structure
 
-password-generator/
+password-generator/  
 ├── index.html       # HTML structure  
 ├── index.css        # CSS styles  
 ├── index.js         # JavaScript logic  
