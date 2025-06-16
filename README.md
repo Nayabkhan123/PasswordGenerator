@@ -34,17 +34,23 @@ A powerful and customizable password generator web app built with **HTML**, **CS
 ## 📁 Project Structure
 
 password-generator/
--├── index.html # HTML structure
--├── index.css # CSS styles
--├── index.js # JavaScript logic
--└── README.md # Project documentation
+├── index.html       # HTML structure
+├── index.css        # CSS styles
+├── index.js         # JavaScript logic
+└── README.md        # Project documentation
 
-## 🔍 Password Generation Logic
 
--Ensures at least one character from each selected type is included
 
--Uses the Fisher-Yates shuffle to randomize the final password
+---
 
--Password strength is calculated based on:
-  -Length
-  -Diversity of character types (uppercase, lowercase, numbers, symbols)
+### 🔍 Password Generation Logic
+
+- Ensures at least **one character from each selected type** is included
+- Uses the **Fisher-Yates Shuffle Algorithm** to randomize the final password
+- Password strength is determined based on:
+  - Total length
+  - Variety of character types:
+    - Uppercase letters
+    - Lowercase letters
+    - Numbers
+    - Symbols
