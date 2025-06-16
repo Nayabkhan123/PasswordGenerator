@@ -34,10 +34,10 @@ A powerful and customizable password generator web app built with **HTML**, **CS
 ## 📁 Project Structure
 
 password-generator/
-├── index.html       # HTML structure
-├── index.css        # CSS styles
-├── index.js         # JavaScript logic
-└── README.md        # Project documentation
+├── index.html       # HTML structure  
+├── index.css        # CSS styles  
+├── index.js         # JavaScript logic  
+└── README.md        # Project documentation  
 
 
 
